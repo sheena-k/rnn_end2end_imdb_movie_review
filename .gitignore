@@ -1,0 +1,5 @@
+.venv/
+.rnn_venv/
+/rnn_venv
+/logs
+
